@@ -12,6 +12,7 @@ class Bisection
 		int i=1;
 		float a,b,m;
 		double e=0.0001;
+		System.out.println("\nBisection");
 		System.out.println("\nMasukan nilai a");
 		Scanner in=new Scanner(System.in);
 		System.out.println("Masukan nilai b");
