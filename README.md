@@ -8,4 +8,4 @@ Anggota Kelompok
 4. Yesha Rahma Oktavia
 5. Sajida I'tikafah Laila
 6. Dona Viviani
-7. 
+7. Yazid Arroji
